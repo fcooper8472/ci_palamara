@@ -1,4 +1,5 @@
 [![Python package](https://github.com/fcooper8472/ci_palamara/actions/workflows/unit-test.yml/badge.svg)](https://github.com/fcooper8472/ci_palamara/actions/workflows/unit-test.yml)
+[![codecov](https://codecov.io/gh/fcooper8472/ci_palamara/branch/main/graph/badge.svg?token=wEboetYdUH)](https://codecov.io/gh/fcooper8472/ci_palamara)
 
 # OxRSE Continuous Integration course
 
